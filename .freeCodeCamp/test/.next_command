@@ -48,3 +48,4 @@ chmod +x questionnaire.sh
 ls --color=auto -l
 ./questionniare.s
 ./questionnaire.sh
+ls --color=auto -l
