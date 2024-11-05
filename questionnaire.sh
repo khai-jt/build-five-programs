@@ -9,3 +9,5 @@ read NAME
 
 echo "Hello $NAME."
 
+echo $QUESTION2
+
