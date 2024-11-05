@@ -55,3 +55,4 @@ ls --color=auto -l
 ./questionniare.sh
 ./questionnaire.sh
 ./questionnaire.sh
+echo --help
