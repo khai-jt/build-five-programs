@@ -38,3 +38,5 @@ git remote set-url origin
 git remote set-url origin https://github.com/khai-jt/build-five-programs.git
 git branch -M main
 git push -u origin main
+ls --color=auto
+sh questionnaire.sh
