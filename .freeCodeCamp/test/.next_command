@@ -137,3 +137,4 @@ help if
 ./countdown.sh arg1
 ./countdown hello
 ./countdown.sh hello
+./countdown.sh hi
