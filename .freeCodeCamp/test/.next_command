@@ -133,3 +133,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 help
 man if
 help if
+./countdown.sh hello
+./countdown.sh arg1
