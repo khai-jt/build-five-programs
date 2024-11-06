@@ -163,3 +163,4 @@ help test
 help test
 [[ -x countdown.sh ]]
 help [[ expression ]]
+[[ -x countdown.sh && 5 -le 4 ]]
