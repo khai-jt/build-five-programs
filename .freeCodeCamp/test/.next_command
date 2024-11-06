@@ -140,3 +140,5 @@ help if
 ./countdown.sh hi
 ./countdown.sh 4
 ./countdown.sh 5
+help if
+help
