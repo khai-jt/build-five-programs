@@ -254,3 +254,4 @@ ls --color=auto
 which bash
 ./bingo.sh
 printenv
+echo $LANG
