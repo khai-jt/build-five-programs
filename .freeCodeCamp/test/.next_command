@@ -252,3 +252,4 @@ ls --color=auto
 chmod +x bingo.sh
 ls --color=auto
 which bash
+./bingo.sh
