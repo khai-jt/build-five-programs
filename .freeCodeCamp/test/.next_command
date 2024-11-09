@@ -372,3 +372,4 @@ declare -p ARR
 echo fortune.sh
 ./fortune.sh
 ./fortune.sh
+declare -p RANDOM
