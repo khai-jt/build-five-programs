@@ -12,6 +12,8 @@ GET_FORTUNE() {
   then
     echo "Ask a yes or no question:"
     read QUESTION
+  else
+    echo "Try again. Make sure it ends with a question mark:"
   fi
 }
 
