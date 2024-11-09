@@ -538,3 +538,4 @@ chmod +x five.sh
 clear
 ./five.sh
 help
+help type
