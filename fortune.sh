@@ -11,16 +11,19 @@ GET_FORTUNE() {
   if [[ ! $1 ]]
   then
     echo "Ask a yes or no question:"
-    read QUESTION
+  
   else
     echo "Try again. Make sure it ends with a question mark:"
   fi
 }
 
+GET_FORTUNE again
+
+: '
 until [[ $QUESTION =~ \?$ ]]
 do
-  GET_FORTUNE
+  GET_FORTUNE again
 done
 
 echo ${RESPONSES[$N]}
-
+'
