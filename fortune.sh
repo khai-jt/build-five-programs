@@ -4,3 +4,4 @@
 
 echo -e "\n~~ Fortune Teller ~~\n"
 
+ARR=("a" "b" "c")
