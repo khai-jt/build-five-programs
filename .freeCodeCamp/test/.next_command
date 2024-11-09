@@ -410,3 +410,5 @@ help function
 ./fortune.sh
 help
 help until
+help test
+./fortune.sh
