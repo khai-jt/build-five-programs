@@ -481,3 +481,4 @@ __vsc_prompt_cmd_original
 [[ hello == hello ]]
 [[ "hello" == "hello" ]]
 [[ "hello" == "world" ]]
+[[ "hello" =~ "el" ]]
