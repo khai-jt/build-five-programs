@@ -5,7 +5,6 @@
 echo -e "\n~~ Bingo Number Generator ~~\n"
 
 NUMBER=$(( RANDOM % 75 + 1 ))
-
 TEXT="The next number is, "
 
 if (( NUMBER <= 15 ))
@@ -23,4 +22,3 @@ then
 else
   echo $TEXT O:$NUMBER
 fi
-
