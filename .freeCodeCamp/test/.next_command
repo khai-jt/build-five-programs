@@ -362,3 +362,7 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./fortune.sh
 ARR=("a" "b" "c")
 echo ${ARR[1]}
+echo $ARR*
+echo ${ARR*}
+echo $*
+echo ${ARR[@]}
